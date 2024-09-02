@@ -6,4 +6,3 @@ llama-cpp-python
 flask
 chromadb
 jq
-flask-cors
